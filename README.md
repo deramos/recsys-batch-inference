@@ -1,1 +1,1 @@
-# springboot-recsys-batch-inference
+# recsys-batch-inference
